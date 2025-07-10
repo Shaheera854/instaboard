@@ -1,23 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Board from './components/Board';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="min-h-screen bg-gradient-to-br from-gray-100 to-gray-200">
+      <h1 className="text-3xl font-bold text-center py-6 text-indigo-700">InstaBoard – Task Manager</h1>
+      <Board />
     </div>
   );
 }
