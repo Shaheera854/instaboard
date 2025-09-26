@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shaheera854/instaboard/static/css/main.58c082a6.css",
+    "main.js": "/Shaheera854/instaboard/static/js/main.a2b4f8ad.js",
+    "static/js/453.703236d5.chunk.js": "/Shaheera854/instaboard/static/js/453.703236d5.chunk.js",
+    "static/media/logo.svg": "/Shaheera854/instaboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Shaheera854/instaboard/index.html",
+    "main.58c082a6.css.map": "/Shaheera854/instaboard/static/css/main.58c082a6.css.map",
+    "main.a2b4f8ad.js.map": "/Shaheera854/instaboard/static/js/main.a2b4f8ad.js.map",
+    "453.703236d5.chunk.js.map": "/Shaheera854/instaboard/static/js/453.703236d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58c082a6.css",
+    "static/js/main.a2b4f8ad.js"
+  ]
+}
